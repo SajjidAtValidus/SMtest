@@ -1,6 +1,2 @@
 Hi
-<<<<<<< HEAD
-add another feature
-=======
-this is branch work
->>>>>>> 13eaa995fff0c2a36aa046f122a9468aef64e460
+cleanup fix
